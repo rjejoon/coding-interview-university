@@ -217,7 +217,7 @@ I'm using Github's special markdown flavor, including tasks lists to check progr
 
 `git rebase jwasham/master`
 
-`git push --force`
+`git push origin progress`
 
 [More about Github-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
 
